@@ -18,14 +18,14 @@ In this web place you will find a list of my skills and the projects I have work
 <img align="Left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
           
 <br>
-
+<br>
 # My projects
--
--
--
++
++
++
 # contact information
--
--
++
++
 ### resume
 
                     
