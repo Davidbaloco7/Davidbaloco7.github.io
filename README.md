@@ -6,5 +6,12 @@ Hello, and nice to meet you, I am David Baloco, a 21 (and counting) year old Sof
 
 In this web place you will find a list of my skills and the projects I have worked on and I am proud of.  I hope you enjoy :grey_exclamation:  :grey_exclamation:
 
-# What I know
+# What I know (Technical skills)
 
++  <img align="Left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
++
++
++
++
++
