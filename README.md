@@ -1,8 +1,9 @@
 
-# Who I am ?
+# Who I am and what this website is about ?
 
-Creative and highly reliable student with excellent organizational and prioritization skills. Bilingual with strong
-communication skills proven through providing customer service in a fast-paced environment. Proficient in
-Object-Oriented Programming (Java, C#) and scripting (JavaScript), with a solid understanding of testing
-frameworks like JUnit 5. Intense desire to learn and explore new concepts. Known to be collaborative and a
-contributing member to team activities and projects.
+Hello, and nice to meet you, I am David Baloco, a 21 (and counting) years old Software developer student with so many dreams that I will
+probably won't be able to written them all here, but as for now my current interest are in programming and software crafting, to be more 
+specific I'm currently learning React and to manage the Game engine Gotdot, 
+
+# What I know
+
