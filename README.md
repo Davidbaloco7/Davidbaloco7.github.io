@@ -21,12 +21,12 @@ In this web place you will find a list of my skills and the projects I have work
 <br> </br>
 
 # My projects
-+
-+
-+
++d
++d
++d
 # contact information
-+
-+
++d
++d
 ### resume
 
                     
