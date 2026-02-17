@@ -8,7 +8,7 @@ In this web place you will find a list of my skills and the projects I have work
 
 # What I know (Technical skills)
 
-+  <img align="Left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
++  <img align="Left" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> Java
           
 +
 +
