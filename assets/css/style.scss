@@ -2,7 +2,12 @@
 ---
 @import "{{ site.theme }}";
 
+header {
+    border-bottom: 1px dashed #58d1f8;
+}
+
 header h1 {
     color: #58d1f8;
 }
+
 
