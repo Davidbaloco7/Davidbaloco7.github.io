@@ -1,5 +1,8 @@
 ---
 ---
-$conifer: #fb2b2b;
 @import "{{ site.theme }}";
+
+header h1 {
+    color: #fb2b2b;
+}
 
