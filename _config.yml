@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jemoji
 title: Davidbaloco profolio
-description: test
+description: Welcome to my portfolio

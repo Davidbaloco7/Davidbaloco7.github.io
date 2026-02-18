@@ -1,63 +1,76 @@
 
-# :blue_book: Who I am and what this website is about?
+# 📘 Who I Am and What This Website Is About
 
-Hello, and nice to meet you, I am David Baloco, a 21 (and counting) year old Software Developer student with so many dreams that  I will probably won’t be able to write them all here, but for now my current interests are in programming.  To be more specific, I’m currently learning React and how to manage the game engine Godot. I am fluent in English and Spanish, and I always have the desire to learn new topics.
+Hello, and nice to meet you!  
+I am David Baloco, a 21-year-old (and counting) Software Development student with so many dreams that I probably won’t be able to write them all here. For now, my main interests are in programming. To be more specific, I’m currently learning React and how to work with the Godot game engine.
 
-### resume
+I am fluent in English and Spanish, and I always have the desire to learn new things.
 
- Here is my <a href="resume.pdf" download> Resume </a>
+### Resume
 
-### My contant information
+Here is my <a href="resume.pdf" download>resume</a>.
+
+### My Contact Information
 
 <ul class="list-group m-3">
-  <li class="list-group-item"> Email: david.baloco-alvarez@mohawkcollege.ca</li>
-  <li class="list-group-item"> Number: 289-880-5248</li>
-  <li class="list-group-item"> <a href="https://www.linkedin.com/in/david-esteban-baloco-alvarez-b37774361"></a> linkedin account</li>
+  <li class="list-group-item">Email: david.baloco-alvarez@mohawkcollege.ca</li>
+  <li class="list-group-item">Phone: 289-880-5248</li>
+  <li class="list-group-item">
+    <a href="https://www.linkedin.com/in/david-esteban-baloco-alvarez-b37774361">LinkedIn account</a>
+  </li>
 </ul>
 
+## In This Website
 
+On this website you will find a list of my skills and the projects I have worked on and am proud of. I hope you enjoy it ❗
 
-## In this website
+# What I Know (Technical Skills)
 
-In this web place you will find a list of my skills and the projects I have worked on and I am proud of.  I hope you enjoy :grey_exclamation: 
+<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> 
+<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
+<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
-# What I know (Technical skills)
+<br>
 
-<img align="Left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> 
-<img align="Left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="Left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="Left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
-<img align="Left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-<img align="Left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-<img align="Left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-<img align="Left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-
-<br> 
-
-# My projects
+# My Projects
 
 <div class="d-flex p-2">
-    <div class="card m-3" style="width: 18rem;">
+
+  <div class="card m-3" style="width: 18rem;">
     <div class="card-body">
-        <h5 class="card-title">Project 1</h5>
-        <p class="card-text">AUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-        <a href="#" class="btn btn-primary">Open projec</a>
+      <h5 class="card-title">Project 1</h5>
+      <p class="card-text">
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      </p>
+      <a href="#" class="btn btn-primary">Open project</a>
     </div>
-    </div>
-    <div class="card m-3" style="width: 18rem;">
+  </div>
+
+  <div class="card m-3" style="width: 18rem;">
     <div class="card-body">
-        <h5 class="card-title">Project 2</h5>
-        <p class="card-text">ALorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-        <a href="#" class="btn btn-primary">Open projec</a>
+      <h5 class="card-title">Project 2</h5>
+      <p class="card-text">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      </p>
+      <a href="#" class="btn btn-primary">Open project</a>
     </div>
-    </div>
-    <div class="card m-3" style="width: 18rem;">
+  </div>
+
+  <div class="card m-3" style="width: 18rem;">
     <div class="card-body">
-        <h5 class="card-title">project 3</h5>
-        <p class="card-text">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-        <a href="#" class="btn btn-primary">Open projec</a>
+      <h5 class="card-title">Project 3</h5>
+      <p class="card-text">
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      </p>
+      <a href="#" class="btn btn-primary">Open project</a>
     </div>
-    </div>
+  </div>
+
 </div>
 
 
