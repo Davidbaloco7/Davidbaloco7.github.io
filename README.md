@@ -5,7 +5,7 @@ Hello, and nice to meet you, I am David Baloco, a 21 (and counting) year old Sof
 
 ### My contant information
 
-<ul class="list-group">
+<ul class="list-group m-3">
   <li class="list-group-item"> Email: david.baloco-alvarez@mohawkcollege.ca</li>
   <li class="list-group-item"> Number: 289-880-5248</li>
   <li class="list-group-item"> <a href="https://www.linkedin.com/in/david-esteban-baloco-alvarez-b37774361"></a> linkedin account</li>

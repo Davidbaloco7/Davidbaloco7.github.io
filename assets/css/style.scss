@@ -19,8 +19,14 @@ header {
     border-bottom: 1px dashed $mainColor;
 }
 
-.card, ul li{
+.card{
     color:white;
     border: dashed red;
     background-color: black ;
+}
+
+.list-group,.list-group-item{
+    border: dashed red;
+    color:white;
+    background-color: black ; 
 }
