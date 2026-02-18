@@ -22,7 +22,7 @@ Here is my <a href="resume.pdf" download>resume</a>.
 
 ## In This Website
 
-On this website you will find a list of my skills and the projects I have worked on and am proud of. I hope you enjoy it ❗
+On this website you will find a list of my skills and the projects I have worked on and I am proud of. I hope you enjoy it ❗
 
 # What I Know (Technical Skills)
 
