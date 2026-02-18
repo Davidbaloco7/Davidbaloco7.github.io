@@ -3,6 +3,10 @@
 
 Hello, and nice to meet you, I am David Baloco, a 21 (and counting) year old Software Developer student with so many dreams that  I will probably won’t be able to write them all here, but for now my current interests are in programming.  To be more specific, I’m currently learning React and how to manage the game engine Godot. I am fluent in English and Spanish, and I always have the desire to learn new topics.
 
+### resume
+
+ Here is my <a href="resume.pdf" download> Resume </a>
+
 ### My contant information
 
 <ul class="list-group m-3">
@@ -11,9 +15,6 @@ Hello, and nice to meet you, I am David Baloco, a 21 (and counting) year old Sof
   <li class="list-group-item"> <a href="https://www.linkedin.com/in/david-esteban-baloco-alvarez-b37774361"></a> linkedin account</li>
 </ul>
 
-### resume
-
- Here is my <a href="resume.pdf" download> Resume </a>
 
 
 ## In this website
@@ -38,22 +39,22 @@ In this web place you will find a list of my skills and the projects I have work
 <div class="d-flex p-2">
     <div class="card m-3" style="width: 18rem;">
     <div class="card-body">
-        <h5 class="card-title">Godot project</h5>
-        <p class="card-text">An small 2d plaformer video game using gotdot (you will need to download godot before using the files)</p>
+        <h5 class="card-title">Project 1</h5>
+        <p class="card-text">AUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         <a href="#" class="btn btn-primary">Open projec</a>
     </div>
     </div>
     <div class="card m-3" style="width: 18rem;">
     <div class="card-body">
-        <h5 class="card-title">Godot project</h5>
-        <p class="card-text">An small 2d plaformer video game using gotdot (you will need to download godot before using the files)</p>
+        <h5 class="card-title">Project 2</h5>
+        <p class="card-text">ALorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         <a href="#" class="btn btn-primary">Open projec</a>
     </div>
     </div>
     <div class="card m-3" style="width: 18rem;">
     <div class="card-body">
-        <h5 class="card-title">Godot project</h5>
-        <p class="card-text">An small 2d plaformer video game using gotdot (you will need to download godot before using the files)</p>
+        <h5 class="card-title">project 3</h5>
+        <p class="card-text">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         <a href="#" class="btn btn-primary">Open projec</a>
     </div>
     </div>
