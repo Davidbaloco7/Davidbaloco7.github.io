@@ -3,6 +3,18 @@
 
 Hello, and nice to meet you, I am David Baloco, a 21 (and counting) year old Software Developer student with so many dreams that  I will probably won’t be able to write them all here, but for now my current interests are in programming.  To be more specific, I’m currently learning React and how to manage the game engine Godot. I am fluent in English and Spanish, and I always have the desire to learn new topics.
 
+### My contant information
+
+<ul class="list-group">
+  <li class="list-group-item">Email: david.baloco-alvarez@mohawkcollege.ca</li>
+  <li class="list-group-item">Number: 289-880-5248</li>
+  <li class="list-group-item"><a href="https://www.linkedin.com/in/david-esteban-baloco-alvarez-b37774361">linkedin account</li>
+</ul>
+
+### resume
+ Here is my <a href="link/to/your/download/file" download> Resume</a>
+
+
 ## In this website
 
 In this web place you will find a list of my skills and the projects I have worked on and I am proud of.  I hope you enjoy :grey_exclamation: 
@@ -18,7 +30,6 @@ In this web place you will find a list of my skills and the projects I have work
 <img align="Left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 <img align="Left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
-<br> 
 <br> 
 
 # My projects
@@ -47,10 +58,7 @@ In this web place you will find a list of my skills and the projects I have work
     </div>
 </div>
 
-# contact information
-+ d
-+ d
-### resume
+
 
 
                     
