@@ -1,3 +1,7 @@
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+
 # :blue_book: Who I am and what this website is about?
 
 Hello, and nice to meet you, I am David Baloco, a 21 (and counting) year old Software Developer student with so many dreams that  I will probably won’t be able to write them all here, but for now my current interests are in programming.  To be more specific, I’m currently learning React and how to manage the game engine Godot. I am fluent in English and Spanish, and I always have the desire to learn new topics.
