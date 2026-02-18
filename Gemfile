@@ -1,3 +1,2 @@
 gem 'jemoji'   
-gem 'jekyll-paginate'
-gem 'jekyll-theme-bootstrap5'
+gem install bootstrap -v 5.3.8
