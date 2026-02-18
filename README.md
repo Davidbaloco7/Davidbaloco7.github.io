@@ -20,25 +20,25 @@ In this web place you will find a list of my skills and the projects I have work
 
 <br> 
 <br> 
-gti
+
 # My projects
 
 <div class="d-flex p-2">
-    <div class="card" style="width: 18rem;">
+    <div class="card m-3" style="width: 18rem;">
     <div class="card-body">
         <h5 class="card-title">Godot project</h5>
         <p class="card-text">An small 2d plaformer video game using gotdot (you will need to download godot before using the files)</p>
         <a href="#" class="btn btn-primary">Open projec</a>
     </div>
     </div>
-    <div class="card" style="width: 18rem;">
+    <div class="card m-3" style="width: 18rem;">
     <div class="card-body">
         <h5 class="card-title">Godot project</h5>
         <p class="card-text">An small 2d plaformer video game using gotdot (you will need to download godot before using the files)</p>
         <a href="#" class="btn btn-primary">Open projec</a>
     </div>
     </div>
-        <div class="card" style="width: 18rem;">
+    <div class="card m-3" style="width: 18rem;">
     <div class="card-body">
         <h5 class="card-title">Godot project</h5>
         <p class="card-text">An small 2d plaformer video game using gotdot (you will need to download godot before using the files)</p>
