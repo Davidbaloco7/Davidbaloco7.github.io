@@ -12,6 +12,7 @@ Hello, and nice to meet you, I am David Baloco, a 21 (and counting) year old Sof
 </ul>
 
 ### resume
+
  Here is my <a href="link/to/your/download/file" download> Resume </a>
 
 

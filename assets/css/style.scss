@@ -18,7 +18,9 @@ header h1 {
 header {
     border-bottom: 1px dashed $mainColor;
 }
-.card {
+
+.card, ul {
     color:white;
     border: dashed red;
+    background-color: black ;
 }
