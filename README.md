@@ -21,11 +21,10 @@ In this web place you will find a list of my skills and the projects I have work
 <br> 
 
 <div class="card" style="width: 18rem;">
-  <img src="..." class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">Godot project</h5>
+    <p class="card-text">An small 2d plaformer video game using gotdot \(you will need to download godot before using the files)</p>
+    <a href="#" class="btn btn-primary">Open projec</a>
   </div>
 </div>
 
