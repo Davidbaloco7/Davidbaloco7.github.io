@@ -1,2 +1,2 @@
 gem 'jemoji'   
-gem install bootstrap -v 5.3.8
+gem 'bootstrap', '~> 5.3.8'
