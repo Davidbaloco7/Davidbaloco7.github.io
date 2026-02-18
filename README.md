@@ -1,7 +1,3 @@
-<article class="col">
-
-</article>
-<article class="col">
 
 # :blue_book: Who I am and what this website is about?
 
@@ -24,7 +20,7 @@ In this web place you will find a list of my skills and the projects I have work
 
 <br> 
 <br> 
-
+gti
 # My projects
 
 <div class="d-flex p-2">
@@ -56,5 +52,5 @@ In this web place you will find a list of my skills and the projects I have work
 + d
 ### resume
 
-</article>
+
                     
