@@ -19,6 +19,7 @@ In this web place you will find a list of my skills and the projects I have work
 
 <br> 
 <br> 
+<div class="container">bla bla bla </div>
 
 # My projects
 + d
